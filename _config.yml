@@ -23,13 +23,13 @@ footer-links:
   flickr:
   github: jmullally/jekyll-now
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/pub/james-mullally/4a/7a0/799
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jamesmullally
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 111841197091811660674 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
